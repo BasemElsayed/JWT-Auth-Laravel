@@ -16,5 +16,6 @@ Packages that i have used
 
 2- Guzzle for handling Laravel Rest API (getCountries).
 
-3- Check "Postman" Folder to see screenshots with testing api.
+## Note 
+Check "Postman" Folder to see screenshots with testing api.
 
