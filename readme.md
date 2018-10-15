@@ -11,7 +11,10 @@
 
 You Need to take a look in the ApiController file to see the functions that required (Login, Register, getCountries, Logout, getAuthUser),
 Packages that i have used 
+
 1- JWT for Authentication.
+
 2- Guzzle for handling Laravel Rest API (getCountries).
+
 3- Check "Postman" Folder to see screenshots with testing api.
 
